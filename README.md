@@ -8,9 +8,6 @@
 
 *** Instruction to use the system:
 
-+ First go to this link: 
-https://mercury.swin.edu.au/cos30020/s101272826/Assign1/shiponline.php
-
 + If you are a customer and do not have an account, click "Registration" 
 
 - Then you need to provide your information such as your name, email address and contact phone number. You also need to provide password for the account. The 2 fields "password" and "confirm password" must be match. And all the fields must be filled.
